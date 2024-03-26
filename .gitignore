@@ -1,0 +1,7 @@
+*.zip
+/helmet-nonhelmet_cnn.h5
+/Vehicle-Detection-And-Speed-Tracking
+/yolov5-custom_7000.weights
+/yolov5-custom.cfg
+*.mp4
+*.avi
